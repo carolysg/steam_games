@@ -1,8 +1,8 @@
 # Projeto Análise de Jogos da Steam
 
 ## Autores
-Carolina Y. S. Goshima (carolinagoshima@gmail.com)
-Gabriel G. de Oliveira Mourão (gb.mourao@hotmail.com).
+- Carolina Y. S. Goshima (carolinagoshima@gmail.com)
+- Gabriel G. de Oliveira Mourão (gb.mourao@hotmail.com).
 
 ## Dataset
 Link: https://www.kaggle.com/datasets/antonkozyriev/game-recommendations-on-steam?select=games.csv
